@@ -54,7 +54,7 @@ const App = () => {
             </>
         )
     }
-    if (tours.length == 0){
+    if (tours.length === 0){
         return (
             <>
                     <StyledBox sx={{mt:'40vh'}}>

@@ -1,6 +1,5 @@
-import { Typography, Box } from '@mui/material'
+import {Box } from '@mui/material'
 import React from 'react'
-import Skeleton from '@mui/material/Skeleton';
 import CircularProgress from '@mui/material/CircularProgress'
 
 
